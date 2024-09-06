@@ -41,5 +41,8 @@
 ## Estadisticas del repositorio
 ![Henrym718' GitHub stats](https://github-readme-stats.vercel.app/api?username=henrym718&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
 
-
+## Mis ultimos videos de Youtube
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Flutter: Petición POST con DIO y HTTP en API REST con NodeJs 📦](https://ytcards.demolab.com/?id=UTr1-t5bhZA&title=Mi+primera+MacBook+%F0%9F%93%A6&lang=en&timestamp=1725409782&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5  "Nodejs curso para principiantes (Tu primer api rest con Express, Mongodb, AWS/S3, Multer y Dotenv)")](https://www.youtube.com/watch?v=X0dVJ4B_pcE&t=2823s)
+<!-- END YOUTUBE-CARDS -->
 
