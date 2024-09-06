@@ -38,7 +38,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Las estadisticas del repositorio
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrym718&show_icons=true&theme=transparent)
+## Estadisticas del repositorio
+![Henrym718' GitHub stats](https://github-readme-stats.vercel.app/api?username=henrym718&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
+
 
 
