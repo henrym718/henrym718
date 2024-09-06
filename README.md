@@ -43,8 +43,5 @@
 
 ## Mis ultimos videos de Youtube
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Node, primera apirest 📦](https://ytcards.demolab.com/?id=UTr1-t5bhZA&title=Mi+primera+MacBook+%F0%9F%93%A6&lang=en&timestamp=1725409782&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nodejs curso para principiantes (Tu primer api rest con Express, Mongodb, AWS/S3, Multer y Dotenv)")](https://www.youtube.com/watch?v=X0dVJ4B_pcE&t=2824s)
-[![Flutter peticiones http 📦](https://ytcards.demolab.com/?id=UTr1-t5bhZA&title=Mi+primera+MacBook+%F0%9F%93%A6&lang=en&timestamp=1725409782&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nodejs curso para principiantes (Tu primer api rest con Express, Mongodb, AWS/S3, Multer y Dotenv)")](https://www.youtube.com/watch?v=zs_P4W2qfio&t=2459s)
-
 <!-- END YOUTUBE-CARDS -->
 
